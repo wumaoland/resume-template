@@ -52,10 +52,10 @@
 <h4 class="info-job">成都理工大学 / 本科</h4>
 ```
 
-## 详细信息
+## 基本信息
 
 ```html
-<!-- 详细信息 -->
+<!-- 基本信息 -->
             <section class="profile info-unit">
                 <h2>
                     <i class="fa fa-user" aria-hidden="true"></i>基本信息</h2>
