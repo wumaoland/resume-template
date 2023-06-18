@@ -1,6 +1,6 @@
 # 极简个人简历
 
-此项目基于**拾迹**的开源项目[非你莫属-个人简历模板](https://gitee.com/itsay/resume) 进行二次开发，更加简约美观。
+此项目基于**拾迹**的开源项目 [非你莫属-个人简历模板](https://gitee.com/itsay/resume) 进行二次开发，更加简约美观。
 
 ![](assets/README/image-20230618155210969.png)
 
@@ -24,7 +24,7 @@
 
 # 快速开始
 
-使用 Git 克隆本仓库或直接下载资源包
+使用 Git 克隆本仓库或直接 [下载](https://github.com/hieroglyphicss/resume-template/archive/refs/tags/resume.zip) 资源包
 
 依据修改`index.html`中的信息即可
 
@@ -63,7 +63,7 @@
                 <ul>
                     <li>
                         <label>个人信息</label>
-                        <span>焦元 / 男 / 20岁</span>
+                        <span>焦元 / 男 / 20 岁</span>
                     </li>
                     <li>
                         <label>英语水平</label>
@@ -181,7 +181,7 @@
                             <time>2023.01 - Now</time>
                         </h3>
                         <ul class="info-content">
-                            <li>采用Hexo框架搭建个人博客<a href="https://www.hieroglyphs.top/">“猫四叔”</a>分享计算机与生信相关知识</li>
+                            <li>采用 Hexo 框架搭建个人博客<a href="https://www.hieroglyphs.top/">“猫四叔”</a>分享计算机与生信相关知识</li>
                         </ul>
                     </li>
                     <li>
@@ -208,7 +208,7 @@
                                 <time>2023.05 - Now</time>
                             </h3>
                             <ul class="info-content">
-                                <li>开源了Hexo博客主题<a href="https://github.com/hieroglyphicss/hexo-theme-hieroglyphs"> hexo-theme-hieroglyphs </a></li>
+                                <li>开源了 Hexo 博客主题<a href="https://github.com/hieroglyphicss/hexo-theme-hieroglyphs"> hexo-theme-hieroglyphs </a></li>
                                 <li>开源了在线简历模板<a href="https://github.com/hieroglyphicss/resume-template"> resume-template </a></li>
                             </ul>
                         </li>
